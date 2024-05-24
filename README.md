@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/julialvarez_95" target="blank"><img src="https://img.shields.io/twitter/follow/julialvarez_95?logo=twitter&style=for-the-badge" alt="julialvarez_95" /></a> </p>
 
-- 🌱 I’m currently learning **Linux , Docker , Kubernetes**
+- 🌱 I’m currently learning **Linux , AWS , Terraform , Docker , Kubernetes**
 
 - 💬 Ask me about **Linux , Cybersecurity , Project management**
 
